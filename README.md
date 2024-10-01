@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Writing code since 2022<br>📚 I'm currently learning React, NodeJS<br>🎯 Goals: Full Stack Web<br>🎲 Fun fact: I like turtles 🐢</p>
+<p align="left">✨ Writing code since 2022<br>📚 I'm currently learning React, NodeJS<br>🎯 Goals: Learn all the fields I want to specialize in<br>🎲 Fun fact: I like turtles 🐢</p>
 
 ###
 
@@ -29,4 +29,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
