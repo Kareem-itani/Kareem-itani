@@ -1,8 +1,8 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h2 align="center">My name is Karim and I'm a Full Stack Web Developer from 🇱🇧</h2>
+<h2 align="left">My name is Karim and I'm a Full Stack Web Developer from 🇱🇧</h2>
 
 ###
 
